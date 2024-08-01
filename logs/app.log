@@ -1,0 +1,3 @@
+14:50:18.338 [main] INFO  com.java.logdemo.LogDemoApplicationTests - Starting LogDemoApplicationTests using Java 1.8.0_212 on TVSCSLAP9935 with PID 54052 (started by 5073431 in D:\POC\log-demo) 
+14:50:18.355 [main] INFO  com.java.logdemo.LogDemoApplicationTests - No active profile set, falling back to 1 default profile: "default" 
+14:50:19.986 [main] INFO  com.java.logdemo.LogDemoApplicationTests - Started LogDemoApplicationTests in 3.125 seconds (JVM running for 4.384) 
